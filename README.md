@@ -5,3 +5,6 @@ a simple crawler to go through ibay users one by one and log their username and 
 
 i removed the code where i collect other details cause i do not want to provide full on
 scrapping tools. if you would like to feel free to add the features the base code is there.
+
+the madman story behind this code
+https://write.mv/fishie-posting/the-ibay-stalker
